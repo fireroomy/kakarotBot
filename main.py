@@ -23,12 +23,12 @@ def generate_random_address():
 
 def display_header():
     header = r"""
-     ____ ____ ____ ____ ____ ____ ____ 
-    ||O |||N |||E |||I |||R |||O |||S ||
-    ||__|||__|||__|||__|||__|||__|||__||
+     ____ ____ ____ ____ ____ ____ ____ ___ ___
+    ||f |||i |||r |||e |||r |||o |||o ||m |||y ||
+    ||__|||__|||__|||__|||__|||__|||__||__||__||
     |/__\|/__\|/__\|/__\|/__\|/__\|/__\|
     """
-    twitter_link = "\033[92mhttps://x.com/0xOneiros\033[0m"
+    twitter_link = "\033[92mhttps://x.com/fireroomy\033[0m"
     print(header)
     print(twitter_link)
 
