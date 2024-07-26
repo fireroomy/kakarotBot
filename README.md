@@ -20,5 +20,5 @@ git clone https://github.com/xONEIROS/kakarotBot.git
 cd kakarotBot
 ```
 ```
-python main.py
+python3 main.py
 ```
